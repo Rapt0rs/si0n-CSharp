@@ -1,0 +1,9 @@
+c:\users\kegan\documents\visual studio 2015\Projects\si0n-csharp-wrapper\si0n-csharp-wrapper\bin\Debug\si0n-csharp-wrapper.exe.config
+c:\users\kegan\documents\visual studio 2015\Projects\si0n-csharp-wrapper\si0n-csharp-wrapper\bin\Debug\si0n-csharp-wrapper.exe
+c:\users\kegan\documents\visual studio 2015\Projects\si0n-csharp-wrapper\si0n-csharp-wrapper\bin\Debug\si0n-csharp-wrapper.pdb
+c:\users\kegan\documents\visual studio 2015\Projects\si0n-csharp-wrapper\si0n-csharp-wrapper\bin\Debug\si0n.dll
+c:\users\kegan\documents\visual studio 2015\Projects\si0n-csharp-wrapper\si0n-csharp-wrapper\bin\Debug\si0n.pdb
+c:\users\kegan\documents\visual studio 2015\Projects\si0n-csharp-wrapper\si0n-csharp-wrapper\bin\Debug\si0n.xml
+c:\users\kegan\documents\visual studio 2015\Projects\si0n-csharp-wrapper\si0n-csharp-wrapper\obj\Debug\si0n-csharp-wrapper.exe
+c:\users\kegan\documents\visual studio 2015\Projects\si0n-csharp-wrapper\si0n-csharp-wrapper\obj\Debug\si0n-csharp-wrapper.pdb
+c:\users\kegan\documents\visual studio 2015\Projects\si0n-csharp-wrapper\si0n-csharp-wrapper\obj\Debug\si0n-csharp-wrapper.csprojResolveAssemblyReference.cache

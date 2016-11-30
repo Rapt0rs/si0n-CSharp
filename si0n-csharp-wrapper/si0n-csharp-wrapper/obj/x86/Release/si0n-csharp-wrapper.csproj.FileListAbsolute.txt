@@ -1,0 +1,8 @@
+E:\Cheating\CSGO\si0n-csharp\si0n-csharp-wrapper\si0n-csharp-wrapper\bin\x86\Release\si0n-csharp-wrapper.exe.config
+E:\Cheating\CSGO\si0n-csharp\si0n-csharp-wrapper\si0n-csharp-wrapper\bin\x86\Release\si0n-csharp-wrapper.exe
+E:\Cheating\CSGO\si0n-csharp\si0n-csharp-wrapper\si0n-csharp-wrapper\bin\x86\Release\si0n-csharp-wrapper.pdb
+E:\Cheating\CSGO\si0n-csharp\si0n-csharp-wrapper\si0n-csharp-wrapper\bin\x86\Release\si0n.dll
+E:\Cheating\CSGO\si0n-csharp\si0n-csharp-wrapper\si0n-csharp-wrapper\bin\x86\Release\si0n.pdb
+E:\Cheating\CSGO\si0n-csharp\si0n-csharp-wrapper\si0n-csharp-wrapper\bin\x86\Release\si0n.xml
+E:\Cheating\CSGO\si0n-csharp\si0n-csharp-wrapper\si0n-csharp-wrapper\obj\x86\Release\si0n-csharp-wrapper.exe
+E:\Cheating\CSGO\si0n-csharp\si0n-csharp-wrapper\si0n-csharp-wrapper\obj\x86\Release\si0n-csharp-wrapper.pdb

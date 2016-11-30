@@ -1,0 +1,10 @@
+E:\Cheating\CSGO\si0n Recode\si0n Recode\bin\Debug\si0n.dll.config
+E:\Cheating\CSGO\si0n Recode\si0n Recode\bin\Debug\si0n.dll
+E:\Cheating\CSGO\si0n Recode\si0n Recode\bin\Debug\si0n.pdb
+E:\Cheating\CSGO\si0n Recode\si0n Recode\bin\Debug\si0n.xml
+E:\Cheating\CSGO\si0n Recode\si0n Recode\obj\Debug\si0n Recode.vbprojResolveAssemblyReference.cache
+E:\Cheating\CSGO\si0n Recode\si0n Recode\obj\Debug\si0n.Resources.resources
+E:\Cheating\CSGO\si0n Recode\si0n Recode\obj\Debug\si0n Recode.vbproj.GenerateResource.Cache
+E:\Cheating\CSGO\si0n Recode\si0n Recode\obj\Debug\si0n.dll
+E:\Cheating\CSGO\si0n Recode\si0n Recode\obj\Debug\si0n.xml
+E:\Cheating\CSGO\si0n Recode\si0n Recode\obj\Debug\si0n.pdb
